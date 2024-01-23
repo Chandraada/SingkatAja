@@ -4,6 +4,11 @@ section {
     position: relative;
 }
 
+.Chandra img{
+    border-radius: 50%;
+
+}
+
 body{
     font-style:italic;
     background: blueviolet 15px;
